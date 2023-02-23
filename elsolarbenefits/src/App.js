@@ -8,7 +8,7 @@ function App() {
           <h1>Elsolar Benefits</h1>
           <div>
             <div className='text'>⚠️ This website is under construction.</div>
-            <div className="contact">Please contact us at <a href='mailto:support@elsolarbenefits.com'>support@elsolarbenefits.com</a> for more information</div>
+            <div className="contact">Please contact us at <a href='mailto:support@elsolarbenefits.com'>support@elsolarbenefits.com</a> for more information.</div>
           </div>
         </div>
         <div className="imgContainer" style={{
